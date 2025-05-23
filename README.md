@@ -17,7 +17,7 @@ You play as **Falfula**, a tiny cockatiel on a seed-collecting adventure. Naviga
 ## 🛠️ Installation
 
 1. Clone the repository:
-git clone https://github.com/lumi62/Falfula’s Quest.git
+git clone https://github.com/lumi62/Falfulas_Quest.git
    
 2. Install the dependencies:
 pip install pygame
