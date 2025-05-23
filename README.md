@@ -1,6 +1,6 @@
-# 🐥 Falfula Kart
+# 🐥 Falfula’s Quest
 
-**Falfula Kart** is a whimsical 2D platformer built with **Python** and **Pygame**, featuring an adorable cockatiel named Falfula! Jump, dodge fiery traps, collect glowing seeds, and ride moving platforms in a vibrant pixel-art world.
+**Falfula’s Quest** is a whimsical 2D platformer built with **Python** and **Pygame**, featuring an adorable cockatiel named Falfula! Jump, dodge fiery traps, collect glowing seeds, and ride moving platforms in a vibrant pixel-art world.
 
 ## 🎮 Gameplay
 
@@ -17,7 +17,7 @@ You play as **Falfula**, a tiny cockatiel on a seed-collecting adventure. Naviga
 ## 🛠️ Installation
 
 1. Clone the repository:
-git clone https://github.com/lumi62/Falfula_Kart.git
+git clone https://github.com/lumi62/Falfula’s Quest.git
    
 2. Install the dependencies:
 pip install pygame
